@@ -50,3 +50,8 @@ table {
     font-family: 'playfair';
     src: url('../vendor/webfonts/PlayfairDisplay-Regular.ttf') format('truetype');
 }
+/* start of top nav section */
+.toprightnav li{
+    display: inline-block;
+}
+/* end of top nav section */
