@@ -50,6 +50,14 @@ table {
     font-family: 'playfair';
     src: url('../vendor/webfonts/PlayfairDisplay-Regular.ttf') format('truetype');
 }
+/* Common Styling */
+a{
+	text-decoration: none;
+	color: #000;
+}
+h2,h3,h4{
+	font-family:'playfair'
+}
 /* start of top nav section */
 .toprightnav li{
     display: inline-block;
