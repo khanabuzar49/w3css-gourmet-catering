@@ -56,7 +56,7 @@ a{
 	color: #000;
 }
 h2,h3,h4{
-	font-family:'playfair'
+	font-family: "playfair", Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 img{
 	max-width: 100%;
@@ -92,5 +92,12 @@ nav{
 }
 /* end of top nav section */
 /* start of banner section */
-
+.title{
+	font-size: 36px;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	/* letter-spacing: 5px; */
+	padding: 12px 24px;
+}
 /* end of banner section */
