@@ -167,3 +167,46 @@ h3{
 	flex: 0 1 47.65%;
 }
 /* end of details section */
+/* start of menu section */
+.right-img{
+	opacity: 0.75;
+	flex: 0 1 47.65%;
+}
+.menu-section .wrapper{
+	display: flex;
+	width: 69.25%;
+    margin: auto;
+    padding: 96px 0;
+}
+.menu-section h3{
+	font-size: 36px;
+	text-align: center;
+	letter-spacing: 5px;
+	margin-top: 19px;
+    margin-right: 49px;
+}
+.menu-section h4{
+	font-size: 20px;
+	letter-spacing: 5px;
+	margin: 10px 0;
+	line-height: 1.5;
+}
+.menucard p{
+	font-size: 15px;
+	line-height: 1.5;
+	color: #757575;
+}
+.menucard div{
+	margin-top: 52px;
+}
+.menu{
+	box-sizing: border-box;
+    flex: 1 1 47.75%;
+	margin-left: auto;
+}
+.menu-section{
+	border-top: 1px solid #eee;
+	border-bottom: 1px solid #eee;	
+	margin-top: 22px;
+}
+/* end of menu section */
