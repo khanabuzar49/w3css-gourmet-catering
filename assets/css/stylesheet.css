@@ -176,7 +176,8 @@ h3{
 	display: flex;
 	width: 69.25%;
     margin: auto;
-    padding: 96px 0;
+    padding-top: 96px;
+    padding-bottom: 92px;
 }
 .menu-section h3{
 	font-size: 36px;
@@ -210,3 +211,55 @@ h3{
 	margin-top: 22px;
 }
 /* end of menu section */
+/* start of contact section */
+.contactus{
+	display: flex;
+	flex-direction: column;
+	width: 69.25%;
+    margin: auto;
+    padding-top: 93px;
+    padding-right: 16px;
+}
+.contactus h3{
+	font-size: 36px;
+	margin: 10px 0;
+	letter-spacing: 5px;
+}
+.contactus p{
+	font-size: 15px;
+	margin-top: 25px;
+}
+.contactus .add{
+	font-size: 18px;
+	color: #607d8b;
+	font-weight: bold;
+}
+.text-field{
+	width: 100%;
+	border: 0;
+	border-bottom: 1px solid #ccc;
+	padding: 16px 0;
+    margin-top: 20px;
+    margin-left: 8px;
+}
+.button{
+	border: 0;
+    padding: 8px 16px;
+    margin: 31px 0;
+    font-size: 15px;
+    font-family: serif;
+}
+.contactus h3 + p {
+    margin-top: 47px;
+    line-height: 1.5;
+}
+/* end of contact section */
+/* start of footer */
+footer{
+	padding: 47px 0;
+    background: #f1f1f1;
+    text-align: center;
+    font-size: 15px;
+    line-height: 1.5;
+}
+/* end of footer */
