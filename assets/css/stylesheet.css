@@ -55,8 +55,8 @@ a{
 	text-decoration: none;
 	color: #000;
 }
-h2,h3,h4{
-	font-family: "playfair", Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+h2, h3, h4{
+	font-family: 'Playfair Display', serif;
 }
 img{
 	width: 100%;
